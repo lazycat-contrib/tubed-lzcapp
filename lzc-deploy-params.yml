@@ -1,0 +1,11 @@
+params:
+  - id: auth_code
+    type: string
+    name: "auth code"
+    description: "the auth code for login"
+
+locales:
+  zh:
+    auth_code:
+      name: "授权码"
+      description: "授权码"
