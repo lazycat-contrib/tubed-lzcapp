@@ -1,0 +1,14 @@
+package: community.lazycat.app.tubed
+version: 0.2.1
+name: Tubed
+description: "一个图床服务、文件托管服务，适合在VPS上的简单存储服务"
+homepage: https://github.com/hst-Sunday/tubed
+author: hst-Sunday
+min_os_version: "1.5.0"
+locales:
+  zh:
+    description: "一个图床服务、文件托管服务，适合在VPS上的简单存储服务"
+    name: Tubed
+  en:
+    description: "An image hosting and file storage service, suitable for simple storage on a VPS"
+    name: Tubed
