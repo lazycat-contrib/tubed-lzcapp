@@ -19,7 +19,7 @@ images:
   - id: tubed
     target: service
     service: tubed
-    source: hst-sunday/tubed
+    source: ghcr.io/hst-sunday/tubed
     channel: stable
     sort: semver
     tag_regex: '^v?\d+\.\d+\.\d+$'
