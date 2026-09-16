@@ -6,11 +6,10 @@ application:
   upstreams:
     - location: /
       backend: http://tubed:3000/
-
 services:
   tubed:
     # upstream: ghcr.io/hst-sunday/tubed:0.2.3
-    image: ghcr.io/hst-sunday/tubed:0.2.3
+    image: registry.lazycat.cloud/czyt/hst-sunday/tubed:04ba028fb886d0cd
     user: nextjs:nodejs
     binds:
       - /lzcapp/var/data:/app/data

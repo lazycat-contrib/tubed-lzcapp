@@ -1,5 +1,5 @@
 package: community.lazycat.app.tubed
-version: 0.2.1
+version: 0.2.3
 name: Tubed
 description: "一个图床服务、文件托管服务，适合在VPS上的简单存储服务"
 homepage: https://github.com/hst-Sunday/tubed
